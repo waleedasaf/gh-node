@@ -1,0 +1,11 @@
+{
+  "name": "gh-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js CI/CD troubleshooting lab",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
